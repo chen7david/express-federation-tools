@@ -1,0 +1,24 @@
+{
+  "name": "express-federation-tools",
+  "version": "0.0.1",
+  "description": "a bundle of all api-federation tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen7david/express-federation-tools.git"
+  },
+  "keywords": [
+    "api-federation",
+    "afe",
+    "tools"
+  ],
+  "author": "David M.Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chen7david/express-federation-tools/issues"
+  },
+  "homepage": "https://github.com/chen7david/express-federation-tools#readme"
+}
